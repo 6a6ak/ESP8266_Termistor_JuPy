@@ -1,6 +1,7 @@
  <pre>
- 3.3V ----[ Thermistor ]----+----[ Fixed Resistor ]---- GND
-                            |
-                            |
-                         ADC Pin (A0)
+  3.3V ----[ Thermistor ]----+----[ Potentiometer ]---- GND
+                             |
+                        Middle Wiper
+                             |
+                       ADC Pin(A0)
 </pre>

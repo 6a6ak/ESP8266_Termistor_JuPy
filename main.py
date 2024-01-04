@@ -29,3 +29,4 @@ while True:
     else:
         print("Error: ADC value is 0. Check thermistor connections.")
     time.sleep(1)  # Wait for 1 second
+
